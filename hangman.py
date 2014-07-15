@@ -1,4 +1,5 @@
-#Hangman text game. (Made as a learning exercise; too difficult to play)
+#Hangman text game. (Made as a learning exercise; too difficult to play). This is my attempt to create a more concise
+#hangman script than the one on http://inventwithpython.com/chapter9.html
 #Ambarish G
 #July 15, 2014
 
