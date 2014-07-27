@@ -3,14 +3,16 @@
 #July 8, 2014
 
 def reverse(a):
-    list1 = list(a)
-    list2 = []
-    for x in range(0, len(list1)):
-        list2.append(list1.pop())
-    result = ''.join(list2)         #joins list elements into a string
-    return result
+    '''
+    Return the reverse of a string
+    >>> reverse('python')
+    'nohtyp'
+    >>> reverse('code')
+    'edoc'
+    '''
+    # you can iterate under a string....
+    return a[::-1]
 
-print("Enter a string: ", end = '')
-string = input();
-res = reverse(string)
-print(res)
+# you can pass a function as parameter to another function...
+print ( reverse( input('Enter a string') ) )
+
