@@ -1,4 +1,4 @@
-#Reverses a inputted string
+#Reverses a inputted string in an unneccessarily complicated way.
 #@author Ambarish
 #July 8, 2014
 
