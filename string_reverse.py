@@ -1,6 +1,4 @@
 #Reverses a inputted string in an unneccessarily complicated way.
-#@author Ambarish
-#July 8, 2014
 
 def reverse(a):
     list1 = list(a)
