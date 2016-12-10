@@ -1,7 +1,4 @@
 #Basic Python Music Player - using tkinter and pygame
-#Ambarish G
-#July 22, 2014
-
 
 from tkinter import *
 import tkinter.filedialog as tk
