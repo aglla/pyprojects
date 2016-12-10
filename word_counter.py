@@ -1,6 +1,4 @@
 #GUI Word Counter
-#Ambarish
-#July 12, 2014
 
 from tkinter import *
 
